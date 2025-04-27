@@ -4,7 +4,7 @@ This guide explains how to set up **Ollama** to use an AMD discrete GPU (like RX
 
 ---
 
-## 📋 Steps
+## Steps
 
 ### 1. Find your GPU
 
